@@ -124,7 +124,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.it520147.top"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.cluster.lixin"];
 pub const RS_PUB_KEY: &str = "IIz8cprZQMPFldiDfGj9qmMXJwFFAB74XMxF8nqT0ps=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
