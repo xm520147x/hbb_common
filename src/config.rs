@@ -125,7 +125,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.nb.cn"];
-pub const RS_PUB_KEY: &str = "IIz8cprZQMPFldiDfGj9qmMXJwFFAB74XMxF8nqT0ps=";
+pub const RS_PUB_KEY: &str = "WXMbJomwzyqPIFq5izCEP+syLlcZ8U/2ErdOL5eeKDE=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
